@@ -1,5 +1,4 @@
 package com.example.my_kiosk
-import java.util.ArrayList
 import java.util.Scanner
 
 
